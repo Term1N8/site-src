@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/Term1N8/site-src.git
 
 go 1.21
 

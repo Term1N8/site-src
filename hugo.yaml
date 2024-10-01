@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://nathanjmay.com
 
 languageCode: bn
 title: "John's Blog"
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Term1N8/site-src.git
   # Default branch of your Git repo
   gitBranch: main
 

@@ -70,7 +70,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 7
 
   # Configure various features of this theme
   features:
@@ -82,11 +82,11 @@ params:
 
     # Configure theme color settings
     theme:
-      enable: true
+      enable: false
       services:
         light: true # enable light theme. default "true"
-        dark: true # enable dark theme. default "true"
-        default: system # can be either light, dark or system. default "system"
+        dark: false # enable dark theme. default "true"
+        default: light # can be either light, dark or system. default "system"
 
     # Enable and configure portfolio
     portfolio:

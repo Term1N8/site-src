@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Competitions/CTFs
+  id: competitions
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  filter: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: All Army CTF 2020
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  categories: ["container"]
+  url: "https://kubernetes.io/"
+

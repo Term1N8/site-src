@@ -34,8 +34,8 @@ socialLinks:
   url: "https://www.linkedin.com/in/nathan-may-40aa71170/"
 
 - name: HackTheBox
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/test"
+  icon: "fas fa-cube"
+  url: "https://www.hackthebox.eu/profile/119206"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -46,36 +46,25 @@ socialLinks:
 badges:
 - type: certification
   name: Offensive Security Experienced Professional
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/89753591"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89753591"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Offensive Security Certified Professional
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/62034329"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62034329"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Offensive Security Web Assessor
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72126303"
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72126303"
 
-- type: soft-skill-indicator
-  name: Penetration Testing
-  percentage: 100
-  color: red
+- type: certification
+  name: Offensive Security Wireless Professional
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63884623"
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/63884623"
 
-- type: soft-skill-indicator
-  name: Malware Development
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Networking
-  percentage: 85
-  color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+- type: certification
+  name: Red Team Operator
+  url: "https://eu.badgr.com/public/assertions/d09VKZ4aQyqAdBNDrkGUGw"
+  badge: "https://api.eu.badgr.io/public/assertions/d09VKZ4aQyqAdBNDrkGUGw/image"

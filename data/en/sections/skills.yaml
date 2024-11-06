@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Competitions/CTFs
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: All Army CTF 2020
+  logo: /images/sections/skills/kubernetes.png
+  summary: "3/500+ Individually"
+  details: "ACICTF is an annual CTF run by the Army Cyber Institute at West Point Academy for members of the army to compete. Out of over 500 junior enlisted soliders, I placed 3rd individually."
+  url: https://cyber.army.mil/
+
+- name: MetaCTF 2020
+  logo: /images/sections/skills/kubernetes.png
+  summary: "10/646 Teams"
+  details: "Competing on a team of 4 university students, my team placed 10th out of 646 competing teams by solving challenges in the categories of binary exploitation, cryptography, forensics, reconnaissance, reverse engineering and web exploitation."
+  url: https://metactf.com/
+
+- name: CCDC 2020
+  logo: /images/sections/skills/kubernetes.png
+  summary: "3/27 Universities"
+  details: "My junior year at Liberty University, I was the Network Administrator for the Cyber Defense Team which competed in the Mid-Atlantic Region."
+  url: https://maccdc.org/
+
+- name: CCDC 2021
+  logo: /images/sections/skills/kubernetes.png
+  summary: "3/23 Universities"
+  details: "My senior year at Liberty, our team placed 3rd out of 23 teams in a very competitive region. As the Windows team lead, I helped manage and secure the team's Windows systems."
+  url: https://maccdc.org/

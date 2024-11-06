@@ -1,0 +1,17 @@
+copyright: © 3005 Copyright.
+disclaimer: "Get disclaimed."
+
+description: Nathan May
+
+customMenus:
+- name: Docs
+  url: https://toha-guides.netlify.app/posts/
+  hideFromNavbar: true
+  showOnFooter: false
+
+- openGraph:
+  title: Nathan May
+  type: website
+  description: asdf
+  image: images/author/profile.png
+  url: https://nathanjmay.com

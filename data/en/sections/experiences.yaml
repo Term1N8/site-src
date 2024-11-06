@@ -1,0 +1,90 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: UltraViolet Cyber / Stage 2 Security
+    url: "https://uvcyber.com"
+    location: Remote
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Started my career as a penetration tester at Stage 2 Security which soon became a part of merger with three other companies to create UltraViolet Cyber. UltraViolet Cyber prides itself on having strong red and blue team skills, providing customers insight from both sides of the industry. 
+  positions:
+  - designation: Penetration Tester
+    start: Jan 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Perform penetration tests for clients.
+    - Assist with team tooling, process development, and automating tasks.
+
+
+- company:
+    name: SecureStrux LLC
+    url: "https://www.securestrux.com"
+    location: Lancaster, PA
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Securestrux is a cybersecurity company with deep roots in the DoD community. They provide specialized services in the areas of compliance, vulnerability management, cybersecurity strategies and engineering solutions.
+  positions:
+  - designation: Cybersecurity Analyst and Penetration Tester
+    start: May 2021
+    end: Dec 2022
+    responsibilities:
+    - Perform security assessments for clients.
+    - Assist with ACAS configuration.
+    - Assist with Managed Security Service Provider (MSSP) clients. 
+  - designation: Jr IT Systems Administration
+    start: Jul 2020
+    end: May 2021
+    responsibilities:
+    - Assist with Managed Security Service Provider (MSSP) clients.
+    - Design and configure network infrastructure. 
+    - Perform vulnerability assessments. 
+
+- company:
+    name: US Army National Guard
+    url: "https://nationalguard.com"
+    location: Fort Belvoir, VA
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: The National Guard is a unique element of the U.S. military that serves both community and country. The Guard responds to domestic emergencies, overseas combat missions, counterdrug efforts, reconstruction missions and more.
+  positions:
+  - designation: Senior IT Specialist
+    start: May 2022
+    end: Nov 2023
+    responsibilities:
+    - Lead other IT Specialists (25B) in configuring network/service stacks for the 29th ID.
+    - Ensured soldiers needs were met and acted as proxy to senior leadership.
+  - designation: IT Specialist
+    start: Nov 2017
+    end: May 2022
+    responsibilities:
+    - Set up and maintain satellite, ethernet and radio communications.
+    - Configure networking stacks utilizing GRE tunneling, encryption, Palo Alto firewalls, and proxy services. 
+
+- company:
+    name: Brethren Village Retirement Community
+    url: "https://www.bv.org"
+    location: Lancaster, PA
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: Brethren Village is a retirement home for over 1,000 residents.
+  positions:
+  - designation: Technology Generalist
+    start: Jun 2015
+    end: Jan 2018
+    responsibilities:
+    - Completed work orders for employees and residents. 
+    - Maintained provided services like internet, telephone, and television.
+    - Upgraded/encrypted hardware and software of employee laptops. 

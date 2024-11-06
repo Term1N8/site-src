@@ -1,0 +1,70 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Penetration Tester
+# your company information
+company:
+  name: UltraViolet Cyber
+  url: "https://www.uvcyber.com/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Passionate about all things cybersecurity, I enjoy taking every opportunity I can to learn and challenge myself. I have created this website to document new things I learn, projects I am working on, and writeups for competition challenges.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/term1n8"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nathan-may-40aa71170/"
+
+- name: HackTheBox
+  icon: "fas fa-cube"
+  url: "https://www.hackthebox.eu/profile/119206"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Offensive Security Experienced Professional
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/89753591"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89753591"
+
+- type: certification
+  name: Offensive Security Certified Professional
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/62034329"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62034329"
+
+- type: certification
+  name: Offensive Security Web Assessor
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72126303"
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72126303"
+
+- type: certification
+  name: Offensive Security Wireless Professional
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/63884623"
+  url: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/63884623"
+
+- type: certification
+  name: Red Team Operator
+  url: "https://eu.badgr.com/public/assertions/d09VKZ4aQyqAdBNDrkGUGw"
+  badge: "https://api.eu.badgr.io/public/assertions/d09VKZ4aQyqAdBNDrkGUGw/image"
